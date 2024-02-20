@@ -1,0 +1,10 @@
+*{margin: 0%;padding: 0%;box-sizing: border-box;}
+body{background-color:#f0f2f5}
+.image {/* height: 240px; */width: 350px;position: absolute;left: 12%;top: 30%;}
+.box {height: 55vh;width: 405px;background-color: white;margin-left: 60%;margin-top: 12%;box-shadow: 0px 0px 5px 1px;border-radius: 4px; border: white;}
+.sub-box {height: 14%;width: 95%;margin-left: 2vh;margin-top: 2vh;border-radius: 6px;border: 2px solid rgba(128, 128, 128, 0.24);}
+.sub-box:hover{color: royalblue;}
+.login{height: 14%; width: 95%;margin-left: 2vh;margin-top: 2vh;border-radius: 6px;background-color:#316FF6;font-size: x-large;font-weight: 700;color: white;border: white;}
+.Facebook-Logo{margin-left: 34%;color: royalblue;  text-decoration: none;}
+.line{width: 90%; color: grey; margin-left: 5%;}
+.btn2 {border-radius: 8px; border-color: white;color: white;margin-left: 16vh;height: 8vh;width: 50%;background-color: limegreen;font-size: large;font-weight: 700;}
